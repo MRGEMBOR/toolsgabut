@@ -30,13 +30,13 @@ echo
 sleep 2
 echo "$cy █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█"
 sleep 2
-echo "$cy        ★  AUTHOR : MR.KALIT09  ★"
+echo "$cy        ★  AUTHOR : MR.GEMBIR   ★"
 sleep 2
-echo "$cy        ★  WA ME :082277804293  ★"
+echo "$cy        ★  WA ME :  ★"
 sleep 2
-echo "$cy    ★  https://github.com/MRKALIT09  ★"
+echo "$cy    ★  https://github.com/MR GEMBOR  ★"
 sleep 2
-echo "$cy      CYBER MEDAN - YUKI CYBER SQUAD "
+echo "$cy      CYBER INDO - PURBALINGGA DARKNET "
 sleep 2
 echo "$cy █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█"
 echo
